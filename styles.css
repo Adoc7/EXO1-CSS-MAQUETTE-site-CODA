@@ -1,0 +1,42 @@
+/****************************
+ ====== Votre super CSS =====
+ ****************************/
+.head
+{
+  background-color: #1b6e76;
+  height: 140px;
+}
+
+.logo {
+  margin:20px 20px 20px 20px;
+  width:100px;
+  height:100px;
+}
+
+.photo {
+  margin:5px 5px 5px 5px;
+}
+
+h1{
+  color: white;
+  margin-top:-100px;
+  text-align: center;
+}
+h2{
+  color: white;
+  margin-top:-10px;
+  text-align: center;
+}
+
+nav{
+   color: white;
+  margin-top:-120px;
+  margin-bottom:120px;
+  margin-right:20px;
+  text-align: right;
+}
+
+a {
+       text-decoration: none;
+       color: white;
+   }
